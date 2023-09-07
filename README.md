@@ -12,6 +12,12 @@ Tic Tac Toe is a classic two-player game where players take turns to place their
 - **Result announcement**: Toast would be shown for the winner or game draw toast.
 - **Reset Game**: Start a new game anytime.
 
+## Screenshots
+<img src="https://github.com/KrishVerma7/TickTackToe/assets/100028624/ec369811-43de-4db7-be06-1f28936d85ee"  width="200" height="400" />
+<img src="https://github.com/KrishVerma7/TickTackToe/assets/100028624/b0085ac5-db15-4a8c-a010-50d23f5166a1"  width="200" height="400" />
+<img src="https://github.com/KrishVerma7/TickTackToe/assets/100028624/366a54bc-a0a1-4a3b-95fa-bf334193790d"  width="200" height="400" />
+<img src="https://github.com/KrishVerma7/TickTackToe/assets/100028624/fb68668f-8a16-4a68-8006-845f15ecf9f6"  width="200" height="400" />
+
 ## Getting Started
 
 To run the Tic Tac Toe app on your Android device, follow these instructions:
